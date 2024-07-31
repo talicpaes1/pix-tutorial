@@ -7,9 +7,9 @@ Aprenda a cadastrar a sua chave pix de forma prática!
 
 Antes de iniciar é preciso que você saiba o que é uma chave pix.
 
-A chave Pix é um código que torna o processo de enviar e receber dinheiro muito mais fácil. Para enviar ou receber dinheiro, não é mais necessário informar todos os dados da conta. Basta informar a chave Pix cadastrada.
+A chave Pix é um código que torna o processo de enviar e receber dinheiro muito mais fácil. Para enviar ou receber dinheiro, não é mais necessário informar todos os dados da sua conta. Basta informar a chave Pix cadastrada.
 
-A chave Pix pode ser o seu **CPF**, **Telefone celular**, **E-mail**, **chave aleatória** ou um **QR Code** (parecido com um código de barras). A chave aleatória é gerada automaticamente pelo seu banco, seguindo as regras do Banco Central.
+Ela pode ser o seu **CPF**, **Telefone celular**, **E-mail**, **chave aleatória** ou um **QR Code** (parecido com um código de barras). A chave aleatória é gerada automaticamente pelo seu banco, seguindo as regras do Banco Central.
 
 **Importante!** A chave aleatória é única e determinada exclusivamente pelo Banco Central, composta por **32 caracteres com letras e símbolos**, não sendo possível realizar qualquer tipo de alteração.
 
