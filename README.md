@@ -1,19 +1,19 @@
 
-# Como configurar sua chave pix
+# Como configurar sua chave Pix
 
 Aprenda a cadastrar a sua chave pix de forma prática!
 
-## O que é chave pix?
+## O que é a chave Pix?
 
-Antes de iniciar é preciso que você saiba o que é uma chave pix.
+Antes de iniciar, é preciso que você saiba o que é uma chave Pix.
 
-A chave Pix é um código que torna o processo de enviar e receber dinheiro muito mais fácil. Para enviar ou receber dinheiro, não é mais necessário informar todos os dados da sua conta. Basta informar a chave Pix cadastrada.
+A chave Pix é um código que torna o processo de enviar e receber dinheiro, muito mais fácil. Para enviar ou receber dinheiro, não é mais necessário informar todos os dados da sua conta. Basta informar a chave Pix cadastrada.
 
-Ela pode ser o seu **CPF**, **Telefone celular**, **E-mail**, **chave aleatória** ou um **QR Code** (parecido com um código de barras). A chave aleatória é gerada automaticamente pelo seu banco, seguindo as regras do Banco Central.
+Ela pode ser o seu **CPF**, **telefone celular**, **e-mail**, **chave aleatória** ou um **QR Code** (parecido com um código de barras). A chave aleatória é gerada automaticamente pelo seu banco, seguindo as regras do Banco Central.
 
 **Importante!** A chave aleatória é única e determinada exclusivamente pelo Banco Central, composta por **32 caracteres com letras e símbolos**, não sendo possível realizar qualquer tipo de alteração.
 
-## Como configurar a sua chave pix pelo aplicativo?
+## Como configurar a sua chave Pix pelo aplicativo?
 
 Agora que você já sabe o que é chave Pix, siga os passos para aprender a configurá-la.
 
@@ -34,7 +34,7 @@ Agora que você já sabe o que é chave Pix, siga os passos para aprender a conf
 
 Ao finalizar esses passos, o aplicativo deverá apresentar uma mensagem de sucesso para concluir a configuração da sua chave.
 
-Saiba como gerenciar as sua chave Pix clicando **aqui**.
+Saiba como gerenciar a sua chave Pix clicando **aqui**.
 
 Entenda também como proteger melhor as suas transferências clicando **aqui**.
 
