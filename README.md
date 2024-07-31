@@ -23,7 +23,7 @@ Agora que você já sabe o que é chave Pix, siga os passos para aprender a conf
    
 3. Logo em seguida, em Preferências, selecione a opção **Registrar ou trazer chaves**;
    
-   <img src="https://github.com/talicpaes1/pix-tutorial/blob/main/Imagens/area_pix.PNG?raw=true" alt="Image" height="600" width="500">
+   <img src="https://github.com/talicpaes1/pix-tutorial/blob/main/Imagens/area_pix.PNG?raw=true" alt="Image" height="628" width="1592">
    
 4. Agora, selecione qual chave você deseja cadastrar (CPF, Celular, E-mail ou Chave aleatória);
    
