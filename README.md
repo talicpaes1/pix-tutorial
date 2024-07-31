@@ -1,6 +1,5 @@
 
 # Como configurar sua chave pix
-===============================
 
 Aprenda a cadastrar a sua chave pix de forma prática!
 
