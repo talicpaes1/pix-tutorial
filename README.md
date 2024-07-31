@@ -20,7 +20,7 @@ Agora que você já sabe o que é chave Pix, siga os passos para aprender a conf
 1. Acesse o aplicativo do seu banco;
 
 2. Na tela inicial, selecione a opção **Área Pix**;
-![Tela inicial](https://github.com/talicpaes1/pix-tutorial/edit/main/Imagens/inicial.png)
+<img src="/imagens/inicial.png">
 
 4. Logo em seguida, em Preferências, selecione a opção **Registrar ou trazer chaves**;
 
