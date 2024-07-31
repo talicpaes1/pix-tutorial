@@ -25,7 +25,7 @@ Agora que você já sabe o que é chave Pix, siga os passos para aprender a conf
 
 **Passo 4:** Agora, selecione qual chave você deseja cadastrar (CPF, Celular, E-mail ou Chave aleatória);
 
-**Passo 5:** Informe os dados da chave selecionada no **Passo 4** e selecione a opção Registrar.
+**Passo 5:** Informe os dados da chave selecionada no Passo 4 e selecione a opção **Registrar**.
 
 Ao finalizar esses passos, o aplicativo deverá apresentar uma mensagem de sucesso para concluir a configuração da sua chave.
 
