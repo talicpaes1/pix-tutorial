@@ -19,7 +19,7 @@ Agora que você já sabe o que é chave Pix, siga os passos para aprender a conf
 
 1. Acesse o aplicativo do seu banco;
 2. Na tela inicial, selecione a opção **Área Pix**;
-   ![Tela inicial](https://github.com/talicpaes1/pix-tutorial/blob/main/Imagens/inicial.PNG?raw=true width=100)
+   ![Tela inicial](https://github.com/talicpaes1/pix-tutorial/blob/main/Imagens/inicial.PNG?raw=true)
 4. Logo em seguida, em Preferências, selecione a opção **Registrar ou trazer chaves**;
 5. Agora, selecione qual chave você deseja cadastrar (CPF, Celular, E-mail ou Chave aleatória);
 6. Informe os dados da chave selecionada no passo 4 e selecione a opção **Registrar**.
