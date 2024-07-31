@@ -34,7 +34,7 @@ Agora que você já sabe o que é chave Pix, siga os passos para aprender a conf
 
 Ao finalizar esses passos, o aplicativo deverá apresentar uma mensagem de sucesso para concluir a configuração da sua chave.
 
-Saiba como gerenciar as suas chave Pix clicando **aqui**.
+Saiba como gerenciar as sua chave Pix clicando **aqui**.
 
 Entenda também como proteger melhor as suas transferências clicando **aqui**.
 
