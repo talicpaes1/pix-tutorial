@@ -17,15 +17,15 @@ Ela pode ser o seu **CPF**, **Telefone celular**, **E-mail**, **chave aleatória
 
 Agora que você já sabe o que é chave Pix, siga os passos para aprender a configurá-la.
 
-**Passo 1:** Acesse o aplicativo do seu banco;
+1. Acesse o aplicativo do seu banco;
 
-**Passo 2:** Na tela inicial, selecione a opção **Área Pix**;
+2. Na tela inicial, selecione a opção **Área Pix**;
 
-**Passo 3:** Logo em seguida, em Preferências, selecione a opção **Registrar ou trazer chaves**;
+3. Logo em seguida, em Preferências, selecione a opção **Registrar ou trazer chaves**;
 
-**Passo 4:** Agora, selecione qual chave você deseja cadastrar (CPF, Celular, E-mail ou Chave aleatória);
+4. Agora, selecione qual chave você deseja cadastrar (CPF, Celular, E-mail ou Chave aleatória);
 
-**Passo 5:** Informe os dados da chave selecionada no Passo 4 e selecione a opção **Registrar**.
+5. Informe os dados da chave selecionada no passo 4 e selecione a opção **Registrar**.
 
 Ao finalizar esses passos, o aplicativo deverá apresentar uma mensagem de sucesso para concluir a configuração da sua chave.
 
